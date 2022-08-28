@@ -1,10 +1,8 @@
 # Reyno de León<br/>
 
-<div class="gallery">
-    <img src="IMG20220827193648.jpg." alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+<p align="center">
+ <img src=".jpg" width="150"  class="center"> <img src="rozsa_peter_2.png" width="150"  class="center">
+</p>
 
 <div class="gallery">
   <a target="_blank" href="img_forest.jpg">
