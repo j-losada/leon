@@ -1,6 +1,5 @@
 # Reyno de León<br/>
 
-<html>
 <head>
 <style>
 div.gallery {
