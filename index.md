@@ -1,7 +1,6 @@
 # Reyno de León<br/>
 
 <div class="gallery">
-  <a target="_blank" href="IMG20220827193648.jpg">
     <img src="IMG20220827193648.jpg." alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
