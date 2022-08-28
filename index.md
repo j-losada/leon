@@ -38,3 +38,22 @@
 <p align="center">
  <img src="IMG20220826192153.jpg" width="1500"  class="center" border="2">
 </p>
+
+<p align="center">
+ <img src="IMG20220826192233.jpg" width="1500"  class="center" border="2">
+</p>
+<p align="center">
+ <img src="IMG20220826192255.jpg" width="1500"  class="center" border="2">
+</p>
+<p align="center">
+ <img src="IMG20220826192330.jpg" width="1500"  class="center" border="2">
+</p>
+<p align="center">
+ <img src="IMG20220826192508.jpg" width="1500"  class="center" border="2">
+</p>
+<p align="center">
+ <img src="IMG20220827140942.jpg" width="1500"  class="center" border="2">
+</p>
+<p align="center">
+ <img src="IMG20220827193539.jpg" width="1500"  class="center" border="2">
+</p>
