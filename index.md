@@ -27,5 +27,3 @@
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
-
-</body>
