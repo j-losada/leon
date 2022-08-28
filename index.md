@@ -37,5 +37,5 @@
  <img src="IMG20220827193932.jpg" width="1500"  class="center" border="2">
 </p>
 <p align="center">
- <img src="burro.jpg" width="450"  class="center" border="2">
+ <img src="burro.jpg" width="375"  class="center" border="2">
 </p>
